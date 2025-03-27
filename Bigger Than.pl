@@ -1,5 +1,5 @@
 bigger(gajah,kuda).
-bigger(kuda,kedelai).
+bigger(kuda,keledai).
 bigger(keledai,anjing).
 bigger(keledai,monyet).
 
